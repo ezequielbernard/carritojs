@@ -80,7 +80,7 @@ function eliminarDelCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #4b33a8, #785ce9)",
+          background: "linear-gradient(to right, #ad7251,  #f1c59a)",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
@@ -111,7 +111,7 @@ function vaciarCarrito() {
         html: `Se van a borrar ${productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0)} productos.`,
         showCancelButton: true,
         focusConfirm: false,
-        confirmButtonText: 'Sí',
+        confirmButtonText: 'Sí',    
         cancelButtonText: 'No'
     }).then((result) => {
         if (result.isConfirmed) {

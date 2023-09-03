@@ -41,12 +41,12 @@
                         </a>
                     </li>
                     <li>
-                        <a class="boton-menu boton-carrito active" href="./carrito.html">
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
                             <i class="bi bi-cart-fill"></i> Carrito
                         </a>
                     </li>
                     <li>
-                        <a class="boton-menu boton-contacto" href="./contacto.html">
+                        <a class="boton-menu boton-contacto active" href="./contacto.html">
                             <i class="bi bi-envelope"></i>Contacto
                         </a>
                     </li>
@@ -54,28 +54,29 @@
             </nav>
         </aside>
         <main>
-            <h2 class="titulo-principal">Carrito</h2>
-            <div class="contenedor-carrito">
-                <p id="carrito-vacio" class="carrito-vacio">Tu carrito está vacío. <i class="bi bi-emoji-frown"></i></p>
-
-                <div id="carrito-productos" class="carrito-productos disabled">
-                </div>
-
-                <div id="carrito-acciones" class="carrito-acciones disabled">
-                    <div class="carrito-acciones-izquierda">
-                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
-                    </div>
-                    <div class="carrito-acciones-derecha">
-                        <div class="carrito-acciones-total">
-                            <p>Total:</p>
-                            <p id="total">$3000</p>
-                        </div>
-                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
-                    </div>
-                </div>
-
-                <p id="carrito-comprado" class="carrito-comprado disabled">Muchas gracias por tu compra. <i class="bi bi-emoji-laughing"></i></p>
-
+          <div class="titulo-principal">
+            <h1 class="titlo-principal">Contacto</h1>
+          
+            <div class="formulario">
+            <form id="form">
+              <div class="field">
+                <label for="from_name">Nombre</label>
+                <input type="text" name="from_name" id="from_name">
+              </div>
+              <div class="field">
+                <label for="email_id">Mail</label>
+                <input type="text"name="email_id" id="email_id">
+              </div>
+               <div class="field">
+                <label for="message">Mensaje</label>
+                <input type="text" name="message" id="message">
+              </div>
+            
+              <input type="submit" id="button" value="Enviar" >
+            </form>
+          </div>
+          
+          
             </div>
         </main>
     </div>
