@@ -1,122 +1,122 @@
 [
   {
       "id": "cafe-01",
-      "titulo": "Cafe 01",
+      "titulo": "Café Bolivia",
       "imagen": "./img/cafe/01.jpg",
       "categoria": {
-          "nombre": "cafe",
-          "id": "cafe"
+          "nombre": "Café",
+          "id": "café"
       },
-      "precio": 1000
+      "precio": 3000
   },
   {
       "id": "cafe-02",
-      "titulo": "Cafe 02",
+      "titulo": "Café Colombia  ",
       "imagen": "./img/cafe/02.jpg",
       "categoria": {
-          "nombre": "cafe",
-          "id": "cafe"
+          "nombre": "Café",
+          "id": "café"
       },
-      "precio": 1000
+      "precio": 4500
   },
   {
       "id": "cafe-03",
-      "titulo": "Cafe 03",
+      "titulo": "Café Perú",
       "imagen": "./img/cafe/03.jpg",
       "categoria": {
-          "nombre": "cafe",
-          "id": "cafe"
+          "nombre": "Café",
+          "id": "café"
       },
-      "precio": 1000
+      "precio": 1800
   },
   {
       "id": "cafe-04",
-      "titulo": "Cafe 04",
+      "titulo": "Café Nueva Guinea",
       "imagen": "./img/cafe/04.png",
       "categoria": {
-          "nombre": "cafe",
-          "id": "cafe"
+          "nombre": "Café",
+          "id": "café"
       },
-      "precio": 1000
+      "precio": 2300
   },
   {
       "id": "taza-01",
-      "titulo": "Taza 01",
+      "titulo": "Taza Nepal",
       "imagen": "./img/Tazas/01.png",
       "categoria": {
           "nombre": "Tazas",
           "id": "tazas"
       },
-      "precio": 1000
+      "precio": 3000
   },
   {
       "id": "taza-02",
-      "titulo": "Taza 02",
+      "titulo": "Taza Petik",
       "imagen": "./img/Tazas/02.png",
       "categoria": {
           "nombre": "Tazas",
           "id": "tazas"
       },
-      "precio": 1000
+      "precio": 2200
   },
   {
       "id": "taza-03",
-      "titulo": "Taza 03",
+      "titulo": "Taza Osak",
       "imagen": "./img/Tazas/03.png",
       "categoria": {
           "nombre": "Tazas",
           "id": "tazas"
       },
-      "precio": 1000
+      "precio": 1050
   },
   {
       "id": "taza-04",
-      "titulo": "Taza 04",
+      "titulo": "Taza Dubai",
       "imagen": "./img/Tazas/04.png",
       "categoria": {
           "nombre": "Tazas",
           "id": "tazas"
       },
-      "precio": 1000
+      "precio": 1400
   },
   {
       "id": "cafetera-01",
-      "titulo": "Cafetera 01",
+      "titulo": "Cafetera Italiana",
       "imagen": "./img/Cafeteras/01.png",
       "categoria": {
           "nombre": "Cafeteras",
           "id": "cafeteras"
       },
-      "precio": 1000
+      "precio": 20000
   },
   {
       "id": "cafetera-02",
-      "titulo": "Cafetera 02",
+      "titulo": "Cafetera de Embolo",
       "imagen": "./img/Cafeteras/02.png",
       "categoria": {
-          "nombre": "Cafeteras",
-          "id": "Cafeteras"
+        "nombre": "Cafeteras",
+        "id": "cafeteras"
       },
-      "precio": 1000
+      "precio": 25000
   },
   {
       "id": "cafetera-03",
-      "titulo": "Cafetera 03",
+      "titulo": "Cafetera Italiana",
       "imagen": "./img/Cafeteras/03.png",
       "categoria": {
           "nombre": "Cafeteras",
           "id": "cafeteras"
       },
-      "precio": 1000
+      "precio": 20000
   },
   {
     "id": "cafetera-04",
-    "titulo": "Cafetera 04",
+    "titulo": "Cafetera Oster",
     "imagen": "./img/Cafeteras/04.png",
     "categoria": {
         "nombre": "Cafeteras",
         "id": "cafeteras"
     },
-    "precio": 1000
+    "precio": 50000
 }
 ]
