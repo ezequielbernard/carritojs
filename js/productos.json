@@ -1,0 +1,122 @@
+[
+  {
+      "id": "cafe-01",
+      "titulo": "Cafe 01",
+      "imagen": "./img/cafe/01.jpg",
+      "categoria": {
+          "nombre": "cafe",
+          "id": "cafe"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafe-02",
+      "titulo": "Cafe 02",
+      "imagen": "./img/cafe/02.jpg",
+      "categoria": {
+          "nombre": "cafe",
+          "id": "cafe"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafe-03",
+      "titulo": "Cafe 03",
+      "imagen": "./img/cafe/03.jpg",
+      "categoria": {
+          "nombre": "cafe",
+          "id": "cafe"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafe-04",
+      "titulo": "Cafe 04",
+      "imagen": "./img/cafe/04.png",
+      "categoria": {
+          "nombre": "cafe",
+          "id": "cafe"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "taza-01",
+      "titulo": "Taza 01",
+      "imagen": "./img/Tazas/01.png",
+      "categoria": {
+          "nombre": "Tazas",
+          "id": "tazas"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "taza-02",
+      "titulo": "Taza 02",
+      "imagen": "./img/Tazas/02.png",
+      "categoria": {
+          "nombre": "Tazas",
+          "id": "tazas"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "taza-03",
+      "titulo": "Taza 03",
+      "imagen": "./img/Tazas/03.png",
+      "categoria": {
+          "nombre": "Tazas",
+          "id": "tazas"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "taza-04",
+      "titulo": "Taza 04",
+      "imagen": "./img/Tazas/04.png",
+      "categoria": {
+          "nombre": "Tazas",
+          "id": "tazas"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafetera-01",
+      "titulo": "Cafetera 01",
+      "imagen": "./img/Cafeteras/01.png",
+      "categoria": {
+          "nombre": "Cafeteras",
+          "id": "cafeteras"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafetera-02",
+      "titulo": "Cafetera 02",
+      "imagen": "./img/Cafeteras/02.png",
+      "categoria": {
+          "nombre": "Cafeteras",
+          "id": "Cafeteras"
+      },
+      "precio": 1000
+  },
+  {
+      "id": "cafetera-03",
+      "titulo": "Cafetera 03",
+      "imagen": "./img/Cafeteras/03.png",
+      "categoria": {
+          "nombre": "Cafeteras",
+          "id": "cafeteras"
+      },
+      "precio": 1000
+  },
+  {
+    "id": "cafetera-04",
+    "titulo": "Cafetera 04",
+    "imagen": "./img/Cafeteras/04.png",
+    "categoria": {
+        "nombre": "Cafeteras",
+        "id": "cafeteras"
+    },
+    "precio": 1000
+}
+]
