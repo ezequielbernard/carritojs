@@ -1,8 +1,8 @@
-const form = document.getElementById('form');
+const form = document.getElementById("form");
 const btn = document.getElementById('button');
 const emailInput = document.getElementById('email_id');
 
-document.getElementById('form')
+document.getElementById("form")
  .addEventListener('submit', function(event) {
    event.preventDefault();
 
