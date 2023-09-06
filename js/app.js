@@ -1,6 +1,7 @@
 const form = document.getElementById('form');
 const btn = document.getElementById('button');
 const emailInput = document.getElementById('email_id');
+const cors = require("cors");
 
 document.getElementById("form")
  .addEventListener('submit', function(event) {
